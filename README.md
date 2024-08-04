@@ -11,10 +11,9 @@
 - [Why is incident response important for organizations?](#why-is-incident-response-important-for-organizations)
 - [NIST Framework for Incident Response](#nist-framework-for-incident-response)
 - [SANS Framework for Incident Response](#sans-framework-for-incident-response)
-- [Example Scenario: Malware Removal from a Laptop Using NIST Incident Response](#example-nist)
-- [Example Scenario: Malware Removal from a Laptop Using SANS Incident Response](#example-sans)
+- [Example Scenario: Malware Removal from a Laptop Using NIST Incident Response](#example-scenario-nist)
+- [Example Scenario: Malware Removal from a Laptop Using SANS Incident Response](#example:-scenario-malware-removal-from-a-laptop-using-sans-incident-response)
 - [Summary](#summary)
-
 
 
 
